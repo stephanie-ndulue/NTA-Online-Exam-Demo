@@ -1,0 +1,14 @@
+Project Name: ntaonlineexamdemo
+Database Name: nta_exam
+
+Admin Login Details:
+Email    : admin@gmail.com
+Password : 1234567890
+
+
+**Student Login Details**
+
+Email   : james@gmail.com 
+Password: 1234567890
+
+

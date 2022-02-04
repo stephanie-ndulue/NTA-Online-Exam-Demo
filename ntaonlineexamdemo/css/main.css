@@ -1,0 +1,133 @@
+/*main*/
+
+.navbar .navbar-toggler {
+    color: #c55617;
+    border-color: #c55617;
+}
+
+.navbar .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-brand {
+    color: #c55617;
+    padding-left: 2rem;
+    font-size: 2rem;
+}
+
+.navbar-brand:hover {
+    color: #d88c60;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.nav-item button {
+    margin-top: 1rem;
+    border-radius: 4px;
+    border: none;
+    background-color: #c55617;
+    padding: 0 2rem;
+}
+
+.nav-item button a {
+    color: #fff;
+}
+
+.nav-item button:hover {
+    color: #fff;
+    background-color: #d88c60;
+}
+
+.nav-item button a:hover {
+    color: #fff;
+}
+
+
+/*main*/
+
+.jumbotron {
+    background: radial-gradient(#fff, #fae3d6);
+    position: relative;
+}
+
+.jumbotron .container {
+    z-index: 1;
+    background: url(/image/intro.svg) no-repeat center center fixed;
+    height: 100vh;
+}
+
+
+/*footer*/
+
+.footer {
+    color: #fff;
+    background-color: #0e0601;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    font-size: 15px;
+    text-align: center;
+    border-top: 1px solid;
+    border-color: #c55617;
+    background-color: #c55617;
+    width: 100%;
+}
+
+.footer a {
+    margin: 25px;
+    color: white;
+    text-decoration: none;
+    font: 15px "Century Gothic", "Times Roman", sans-serif;
+}
+
+.footer a:hover {
+    text-decoration: none;
+    color: orange;
+    border-top: 2px solid;
+    border-color: orange;
+}
+
+
+/*login*/
+
+.vh-100 {
+    background: radial-gradient(#fff, #fae3d6);
+}
+
+.form-check {
+    color: #c55617;
+}
+
+a {
+    color: #c55617;
+}
+
+a:hover {
+    color: #d88c60;
+}
+
+.btn {
+    border: none;
+    background-color: #c55617;
+    color: #fff;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #d88c60;
+}
+
+.btn a:hover {
+    color: #fff;
+}
+
+
+/* tables*/
+
+.panel {
+    border-color: #eee;
+    margin: 40px;
+    padding: 20px;
+}
