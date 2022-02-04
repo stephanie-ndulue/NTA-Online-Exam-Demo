@@ -1,0 +1,26 @@
+How to access this project on your computer:
+-Download XAPP
+-Follow the installation instructions
+-drop this project folder in C:\xampp\htdocs
+-go to your XAPP control panel and start Apache and MySQL
+-go to your prefered browser and type in localhost/phpmyadmin
+-create a new database and name it nta_exam
+-import the sql file in this folder
+-open another tab in your browser and type in localhost/ntaonlineexamdemo/
+
+
+
+Project Name: ntaonlineexamdemo
+Database Name: nta_exam
+
+Admin Login Details:
+Email    : admin@gmail.com
+Password : 1234567890
+
+
+**Student Login Details**
+
+Email   : james@gmail.com 
+Password: 1234567890
+
+
